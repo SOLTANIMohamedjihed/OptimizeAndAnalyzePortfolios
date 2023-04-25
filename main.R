@@ -1,4 +1,4 @@
-#  optimize portfolios and to analyze them from different points of view 🧐 👀
+#  optimize portfolios and analyze them from different points of view 🧐 👀
 library(fPortfolio)
 
 # nonlinear programming
